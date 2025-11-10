@@ -1,5 +1,8 @@
 # Zabbix-Notification-Telegram-Topic
 
+#Install Requirements
+`pip3 install -r requirements.txt`
+
 Main Uses
 -
 * **Monitoring Notifications**: Used to send automatic notifications via Telegram when issues or anomalies are detected in systems monitored by Zabbix.
