@@ -1,6 +1,6 @@
 # Zabbix-Notification-Telegram-Topic
 
-#Install Requirements
+# Install Requirements
 `pip3 install -r requirements.txt`
 
 Main Uses
