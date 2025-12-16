@@ -1,4 +1,7 @@
-Subject: ```{HOST.NAME} : Resolved in {EVENT.DURATION} {EVENT.NAME}```
+Subject: 
+```
+{HOST.NAME} : Resolved in {EVENT.DURATION} {EVENT.NAME}
+```
 
 
 Message:
@@ -160,7 +163,7 @@ ZABBIX RECOVERY
 <tr>
 <td align="center">
 <a class="button"
- href="https://zabbix.maib.local/tr_events.php?triggerid={TRIGGER.ID}&eventid={EVENT.ID}"
+ href="https://zabbix.host/tr_events.php?triggerid={TRIGGER.ID}&eventid={EVENT.ID}"
  target="_blank">
 Go to Details
 </a>
