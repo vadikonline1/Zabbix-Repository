@@ -1,4 +1,6 @@
 Subject: ```{HOST.NAME} : Resolved in {EVENT.DURATION} {EVENT.NAME}```
+
+
 Message:
 
 ```
