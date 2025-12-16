@@ -1,4 +1,8 @@
-Subject:```{HOST.NAME} : Problem {TRIGGER.SEVERITY} - {EVENT.NAME}```
+Subject:
+
+```
+{HOST.NAME} : Problem {TRIGGER.SEVERITY} - {EVENT.NAME}
+```
 
 
 Message:
